@@ -23,6 +23,10 @@ $ python3 example.py
 
 * **Mário Antunes** - [mariolpantunes](https://github.com/mariolpantunes)
 
+## Contributor
+
+* **João Santos** - [joaocps](https://github.com/joaocps)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
